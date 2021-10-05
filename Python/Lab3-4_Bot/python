@@ -1,0 +1,251 @@
+add new topic: Tech
+add new topic: UK Home
+add new topic: Global Car Industry
+add new topic: Technology of Business
+add new topic: Companies
+add new topic: Health Home
+add new topic: Business
+add new topic: Science
+add new topic: In Pictures
+add new topic: Long Reads
+add new topic: Europe
+add new topic: Australia
+add new topic: Wales
+add new topic: Asia
+add new topic: New Tech Economy
+add new topic: Global Education
+add new topic: Your Coronavirus Stories
+add new topic: Economy
+add new topic: Climate
+add new topic: Coronavirus Home
+add new topic: Reality Check
+add new topic: Middle East
+add new topic: Jersey
+add new topic: Latin America
+add new topic: Entrepreneurship
+add new topic: US & Canada
+add new topic: Entertainment & Arts
+add new topic: Scotland
+add new topic: Guernsey
+add new topic: England
+add new topic: Isle of Man
+add new topic: Business of Sport
+add new topic: World
+add new topic: Politics
+add new topic: New Economy
+add new topic: N. Ireland
+add new topic: Africa
+add new topic: Tech
+add new topic: UK Home
+add new topic: Global Car Industry
+add new topic: Technology of Business
+add new topic: Companies
+add new topic: Health Home
+add new topic: Business
+add new topic: Science
+add new topic: In Pictures
+add new topic: Long Reads
+add new topic: Europe
+add new topic: Australia
+add new topic: Wales
+add new topic: Asia
+add new topic: New Tech Economy
+add new topic: Global Education
+add new topic: Your Coronavirus Stories
+add new topic: Economy
+add new topic: Climate
+add new topic: Coronavirus Home
+add new topic: Reality Check
+add new topic: Middle East
+add new topic: Jersey
+add new topic: Latin America
+add new topic: Entrepreneurship
+add new topic: US & Canada
+add new topic: Entertainment & Arts
+add new topic: Scotland
+add new topic: Guernsey
+add new topic: England
+add new topic: Isle of Man
+add new topic: Business of Sport
+add new topic: World
+add new topic: Politics
+add new topic: New Economy
+add new topic: N. Ireland
+add new topic: Africa
+add new topic: Tech
+add new topic: UK Home
+add new topic: Global Car Industry
+add new topic: Technology of Business
+add new topic: Companies
+add new topic: Health Home
+add new topic: Business
+add new topic: Science
+add new topic: In Pictures
+add new topic: Long Reads
+add new topic: Europe
+add new topic: Australia
+add new topic: Wales
+add new topic: Asia
+add new topic: New Tech Economy
+add new topic: Global Education
+add new topic: Your Coronavirus Stories
+add new topic: Economy
+add new topic: Climate
+add new topic: Coronavirus Home
+add new topic: Reality Check
+add new topic: Middle East
+add new topic: Jersey
+add new topic: Latin America
+add new topic: Entrepreneurship
+add new topic: US & Canada
+add new topic: Entertainment & Arts
+add new topic: Scotland
+add new topic: Guernsey
+add new topic: England
+add new topic: Isle of Man
+add new topic: Business of Sport
+add new topic: World
+add new topic: Politics
+add new topic: New Economy
+add new topic: N. Ireland
+add new topic: Africa
+u=https://www.bbc.com/news/technology, n=Tech
+p = Tech i = False
+u=https://www.bbc.com/news/uk, n=UK Home
+p = UK i = False
+u=https://www.bbc.com/news/business/global_car_industry, n=Global Car Industry
+p = Global Car Industry i = False
+u=https://www.bbc.com/news/business-11428889, n=Technology of Business
+p = Technology of Business i = False
+u=https://www.bbc.com/news/business/companies, n=Companies
+p = Companies i = False
+u=https://www.bbc.com/news/health, n=Health Home
+p = Health i = False
+u=https://www.bbc.com/news/business, n=Business
+p = Business Home i = False
+u=https://www.bbc.com/news/science_and_environment, n=Science
+p = Science i = False
+u=https://www.bbc.com/news/in_pictures, n=In Pictures
+p = In Pictures i = False
+u=https://www.bbc.com/news/the_reporters, n=Long Reads
+p = Long Reads i = False
+u=https://www.bbc.com/news/world/europe, n=Europe
+p = Europe i = False
+u=https://www.bbc.com/news/world/australia, n=Australia
+p = Australia i = False
+u=https://www.bbc.com/news/wales, n=Wales
+p = Wales i = False
+u=https://www.bbc.com/news/world/asia, n=Asia
+p = Asia i = False
+u=https://www.bbc.com/news/business-15521824, n=New Tech Economy
+p = New Tech Economy i = False
+u=https://www.bbc.com/news/business-12686570, n=Global Education
+p = Global Education i = False
+u=https://www.bbc.com/news/have_your_say, n=Your Coronavirus Stories
+p = Your Coronavirus Stories i = False
+u=https://www.bbc.com/news/business/economy, n=Economy
+p = Economy i = False
+u=https://www.bbc.com/news/science-environment-56837908, n=Climate
+p = Climate i = False
+u=https://www.bbc.com/news/coronavirus, n=Coronavirus Home
+p = Coronavirus i = False
+u=https://www.bbc.com/news/reality_check, n=Reality Check
+p = Reality Check i = False
+u=https://www.bbc.com/news/world/middle_east, n=Middle East
+p = Middle East i = False
+u=https://www.bbc.com/news/world/europe/jersey, n=Jersey
+p = Jersey i = False
+u=https://www.bbc.com/news/world/latin_america, n=Latin America
+p = Latin America i = False
+u=https://www.bbc.com/news/business-22434141, n=Entrepreneurship
+p = Entrepreneurship i = False
+u=https://www.bbc.com/news/world/us_and_canada, n=US & Canada
+p = US & Canada i = False
+u=https://www.bbc.com/news/entertainment_and_arts, n=Entertainment & Arts
+p = Entertainment & Arts i = False
+u=https://www.bbc.com/news/scotland, n=Scotland
+p = Scotland i = False
+u=https://www.bbc.com/news/world/europe/guernsey, n=Guernsey
+p = Guernsey i = False
+u=https://www.bbc.com/news/england, n=England
+p = England i = False
+u=https://www.bbc.com/news/world/europe/isle_of_man, n=Isle of Man
+p = Isle of Man i = False
+u=https://www.bbc.com/news/business/business_of_sport, n=Business of Sport
+p = Business of Sport i = False
+u=https://www.bbc.com/news/world, n=World
+p = World Home i = False
+u=https://www.bbc.com/news/politics, n=Politics
+p = Politics i = False
+u=https://www.bbc.com/news/business-45489065, n=New Economy
+p = New Economy i = False
+u=https://www.bbc.com/news/northern_ireland, n=N. Ireland
+p = N. Ireland i = False
+u=https://www.bbc.com/news/world/africa, n=Africa
+p = Africa i = False
+p = T 2021-09-25 07:24:29.801958+00:00 i = False
+['Coronavirus']
+['Coronavirus', 'Entertainment & Arts']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science', 'Tech']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science', 'Tech', 'Technology of Business']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science', 'Tech', 'Technology of Business', 'US & Canada']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science', 'Tech', 'Technology of Business', 'US & Canada', 'World Home']
+p = T 2021-09-25 07:24:29.801958+00:00 i = False
+['Coronavirus']
+['Coronavirus', 'Entertainment & Arts']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science', 'Tech']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science', 'Tech', 'Technology of Business']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science', 'Tech', 'Technology of Business', 'US & Canada']
+['Coronavirus', 'Entertainment & Arts', 'Global Car Industry', 'Global Education', 'Health', 'Science', 'Tech', 'Technology of Business', 'US & Canada', 'World Home']
+https://www.bbc.com/news/uk
+UK
+p = T 2021-09-25 07:24:29.801958+00:00 i = False
+start saving
+<QuerySet [<Added_Subs: T 2021-09-25 07:24:29.801958+00:00 UK>]>
+
+<QuerySet [<Added_Subs: T 2021-09-25 07:24:29.801958+00:00 UK>]>
+UK
+https://www.bbc.com/news/uk
+cancel
+working?
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+working?
